@@ -9,6 +9,9 @@ void f()
 void f2()
 {
 }
+void f3()
+{
+}
 int _tmain(int argc, _TCHAR* argv[])
 {
 	return 0;
